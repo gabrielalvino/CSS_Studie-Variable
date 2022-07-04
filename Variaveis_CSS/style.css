@@ -1,0 +1,9 @@
+:root{
+  --var-color:red;
+  --var-height: 10px;
+}
+
+h1,h2 {
+  color:var(--var-color);
+  height:var(--var-height);
+}

@@ -1,0 +1,15 @@
+Tarefa 01 : Variáveis CSS
+
+Obejetivo da aula: declarar váriaveis no CSS
+
+Passos:
+
+HTML
+
+1) Crie estrura de título e parágrafos
+
+
+CSS
+
+1) Crie um variavel no CSS que alter a cor de dois elementos do html.
+2) Crie um variavel que alter o tamanho da altura do texto.
